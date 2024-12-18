@@ -1,6 +1,8 @@
 
 # Recommend-System
 
+## ⭐️ Introduction
+
 This project based on Vue 3 in Vite.  
 Please provide the data source according to the code.  
 Ensure that the data format matches the code.
@@ -25,3 +27,7 @@ pnpm dev
 ```sh
 pnpm build
 ```
+
+## ✨ Configuration
+
+Rename `src/assets/search_example.json` to `src/assets/search.json `and add data according to the data format.
