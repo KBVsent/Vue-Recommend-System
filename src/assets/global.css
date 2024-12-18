@@ -1,0 +1,14 @@
+body {
+    margin:0px;
+    background: url(img/bg.png) no-repeat;
+    background-size:100% 100%;
+    background-attachment:fixed;
+}
+.copyright {
+    position: fixed;
+    left: 0;
+    bottom: 20px;
+    width: 100%;
+    text-align: center;
+    color: white;
+}
